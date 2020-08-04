@@ -1,0 +1,26 @@
+20 24
+Arad
+Bucharest
+Oradea,Sibiu
+Oradea,Zerind
+Zerind,Arad
+Arad,Timisoara
+Arad,Sibiu
+Timisoara,Lugoj
+Lugoj,Mehadia
+Mehadia,Dobreta
+Dobreta,Craiova
+Sibiu,Fagaras
+Sibiu,Rimnicu
+Rimnicu,Craiova
+Rimnicu,Pitesti
+Fagaras,Bucharest
+Craiova,Pitesti
+Craiova,Bucharest
+Urziccini,Hirsova
+Urziccini,Bucharest
+Bucharest,Glurglu
+Urziccini,Vaslul
+Hirsova,Eforie
+Vaslul,Iasl
+Iasl,Neamt
