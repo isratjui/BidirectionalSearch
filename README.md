@@ -1,3 +1,3 @@
-# Breadth-First-Search
+# Bidirectional-Search
 Breadth First Search implementation
 using Java
