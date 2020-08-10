@@ -1,3 +1,3 @@
 # Bidirectional-Search
-Breadth First Search implementation
-using Java
+Bidirectional Search implementation
+using Java - Artificial Intelligence
